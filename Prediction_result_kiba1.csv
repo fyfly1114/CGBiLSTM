@@ -1,0 +1,2 @@
+dataset,model,rmse,mse,pearson,spearman,ci,rm2
+kiba,GAT_GCN,0.355,0.126,0.902,0.895,0.901,0.81
